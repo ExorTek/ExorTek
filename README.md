@@ -69,6 +69,6 @@ Here is some of the basic info:
 ## About me 
 -
 
-### Interesting stats
+### Stats
 
 [![Mehmet's stats](https://github-readme-stats.vercel.app/api?username=ExorTek&show_icons=true)]
