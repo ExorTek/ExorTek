@@ -12,58 +12,33 @@ Here is some of the basic info:
 
 # Mehmet Demirel
 
-[![Github](https://img.shields.io/github/followers/rohankumar997?label=Follow&style=social)](https://github.com/ExorTek)
+[![Github](https://img.shields.io/github/followers/ExorTek?label=Follow&style=social)](https://github.com/ExorTek)
 [![Linkedin](https://img.shields.io/badge/-Mehmet%20Demirel-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/ExorTek)
 [![Mail](https://img.shields.io/badge/exortek979@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:exortek979@gmail.com)
 
 ## Stack I work with
-<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
-<code><img height="50" src="https://img.icons8.com/dusk/344/scala.png"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>	
-<code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>	
-<code><img height="50" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>	
-<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>	
-<code><img height="50" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>		
-<code><img height="50" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-ar21.svg"></code>	
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>	
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></code>
-<code><img height="50" src="https://img.icons8.com/color/344/intellij-idea.png"></code>
-<code><img height="50" src="https://img.icons8.com/color/344/pycharm.png"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-<code><img height="50" src="https://img.icons8.com/fluent/344/visual-studio-2019.png"></code>
-<code><img height="50" src="https://img.icons8.com/color/344/teradata.png"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/PuTTY_icon_128px.png"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/de/WinSCP_Logo.png"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>
-<code><img height="50" src="https://img.icons8.com/color/344/notepad-plus-plus.png"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/UltraEditLogo.png"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/opensource/opensource-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu/gnu-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/gnome/gnome-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" />  
 
 
 ## About me 
