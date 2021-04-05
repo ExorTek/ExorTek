@@ -13,7 +13,7 @@ Here is some of the basic info:
 # Mehmet Demirel
 
 [![Github](https://img.shields.io/github/followers/rohankumar997?label=Follow&style=social)](https://github.com/ExorTek)
-[![Linkedin](https://img.shields.io/badge/-Rohan%20Kumar%20Dubey-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/ExorTek)
+[![Linkedin](https://img.shields.io/badge/-Mehmet%20Demirel-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/ExorTek)
 [![Mail](https://img.shields.io/badge/exortek979@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:exortek979@gmail.com)
 
 ## Stack I work with
