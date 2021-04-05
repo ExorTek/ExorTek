@@ -17,6 +17,7 @@ Here is some of the basic info:
 [![Mail](https://img.shields.io/badge/exortek979@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:exortek979@gmail.com)
 
 ## Stack I work with
+<div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -39,7 +40,7 @@ Here is some of the basic info:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" />  
-
+</div>  
 
 ## About me 
 -
