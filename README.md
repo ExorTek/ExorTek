@@ -67,8 +67,7 @@ Here is some of the basic info:
 
 
 ## About me 
-I'm a software development engineer. I like to work with Python, C++, Java, Javascript. I love Linux Kernel based OSs such as Ubuntu, MintOS, Kali Linux, Parrot OS and CentOS.
-I'm open-source development enthusiast.
+-
 
 ### Interesting stats
 
