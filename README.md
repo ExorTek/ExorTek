@@ -8,7 +8,7 @@ Here is some of the basic info:
 - 🤔 I’m looking for help with ... PHP
 - 💬 Ask me about ... Anything
 - 📫 How to reach me ... exortek979@gmail.com / +90 545 925 6422
-- ⚡ Fun fact: ... Work :/
+- ⚡ Fun fact: ... Dc Bot :)
 
 # Mehmet Demirel
 
