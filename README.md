@@ -7,14 +7,12 @@ Here is some of the basic info:
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... PHP
 - 💬 Ask me about ... Anything
-- 📫 How to reach me ... exortek979@gmail.com / +90 545 925 6422
 - ⚡ Fun fact: ... Dc Bot :)
 
 # Mehmet Demirel
 
 [![Github](https://img.shields.io/github/followers/ExorTek?label=Follow&style=social)](https://github.com/ExorTek)
-[![Linkedin](https://img.shields.io/badge/-Mehmet%20Demirel-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/ExorTek)
-[![Mail](https://img.shields.io/badge/exortek979@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:exortek979@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Mehmet%20Demirel-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/memetde)
 
 ## Stack I work with
 <div align="center">  
