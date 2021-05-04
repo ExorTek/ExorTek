@@ -12,7 +12,7 @@ Here is some of the basic info:
 # Mehmet Demirel
 
 [![Github](https://img.shields.io/github/followers/ExorTek?label=Follow&style=social)](https://github.com/ExorTek)
-[![Linkedin](https://img.shields.io/badge/-Mehmet%20Demirel-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/memetde)
+[![Linkedin](https://img.shields.io/badge/-Mehmet%20D.-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/memetde)
 
 ## Stack I work with
 <div align="center">  
