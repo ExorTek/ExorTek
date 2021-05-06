@@ -3,11 +3,11 @@
 Here is some of the basic info:
 
 - 🔭 I’m currently working on ... Python, JavaScript, TypeScript, C# more...
-- 🌱 I’m currently learning ... PHP, Python, C#, Java, TypeScript, JavaScript more...
+- 🌱 I’m currently learning ... C#, AngularCLI more...
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... PHP
 - 💬 Ask me about ... Anything
-- ⚡ Fun fact: ... Dc Bot :)
+- ⚡ Fun fact: ... C# :)
 
 # Mehmet D.
 
