@@ -41,4 +41,4 @@ Here is some of the basic info:
 
 ### Stats
 
-[![Mehmet's stats](https://github-readme-stats.vercel.app/api?username=ExorTek&show_icons=true)]
+![Mehmet's stats](https://github-readme-stats.vercel.app/api?username=ExorTek&show_icons=true)
