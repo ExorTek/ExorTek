@@ -7,7 +7,7 @@ Here is some of the basic info:
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with C#
 - 💬 Ask me about ... Anything
-- ⚡ Fun fact: ... C# :)
+- ⚡ Fun fact: ... JavaScript :)
 
 # Mehmet D.
 
