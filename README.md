@@ -5,7 +5,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/ExorTek.svg?style=social&label=Followers)](https://github.com/ExorTek?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Mehmet!;I'm+a+Full+Stack+Developer...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Mehmet!;I'm+a+Full+Stack+Developer...;I'm+;And+I'm+a🇰)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=ExorTek&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
