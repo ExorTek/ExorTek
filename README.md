@@ -21,8 +21,8 @@
 	-	 
 	- 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ExorTek&theme=gruvbox" alt="Mehmet"  /></p>
-<p align="center">
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=ExorTek&theme=gruvbox" alt="Mehmet"  /></p>
+<p align="right">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ExorTek's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ExorTek&theme=monokai-metallian&hide_border=true"/>
   </a>
