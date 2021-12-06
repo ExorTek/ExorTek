@@ -20,7 +20,7 @@
 -  📰 Articles: 
 	-	 
 	- 
-###                                              🔥 Streak Stats
+<p align="center">🔥Streak stats</p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ExorTek&theme=gruvbox" alt="Mehmet"/></p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
