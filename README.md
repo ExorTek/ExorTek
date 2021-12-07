@@ -46,7 +46,7 @@
 
 <p>
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
-	<img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-7952B3.svg?logo=tailwind&logoColor=white">
+	<img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-7952B3.svg?logo=tailwindcss&logoColor=white">
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
 	<img alt="Entity Framework" src="https://img.shields.io/badge/Entity%20Framework-404d59.svg?logo=entity-framework&logoColor=white">
 	 <img alt="NHibernate" src="https://img.shields.io/badge/NHibernate-404d59.svg?logo=NHibernate&logoColor=white">
