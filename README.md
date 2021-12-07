@@ -50,7 +50,7 @@
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
 	<img alt="Entity Framework" src="https://img.shields.io/badge/Entity%20Framework-404d59.svg?logo=entity-framework&logoColor=white">
 	 <img alt="NHibernate" src="https://img.shields.io/badge/NHibernate-404d59.svg?logo=NHibernate&logoColor=white">
-	
+	<img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style&logo=.net&logoColor=white">
 </p>
 
 ### 🗄️ Databases and cloud hosting
