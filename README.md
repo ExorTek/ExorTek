@@ -31,7 +31,7 @@
 ### 👨‍💻 Programming languages
 
 <p>
-    <img alt="C#" src="https://img.shields.io/badge/CSharp-F7DF1E.svg?logo=csharp&logoColor=white">
+    <img alt="C#" src="https://img.shields.io/badge/CSharp-32CD32.svg?logo=csharp&logoColor=white">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white">
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
