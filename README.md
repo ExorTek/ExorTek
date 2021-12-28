@@ -51,6 +51,7 @@
 
 <p>
     <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+    <img alt="Fastify" src="https://img.shields.io/badge/fastify-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
     <img alt=".Net" src="https://img.shields.io/badge/.NET-FF6347.svg?&style=for-the-badge&logo=.net&logoColor=white">
     <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
